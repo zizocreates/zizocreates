@@ -1,9 +1,12 @@
 ### Hi, I'm Zizo 👋
 
-I build AI agents, apps and hardware, and I ship them to real users.
+I build things that make life easier: tools that save time and effort, so there is more left for living life to the fullest.
 
-**My code is private, by design.** You can try my projects live, right in the browser, on my portfolio:
+**Code you can read here:**
+
+- **[Kit Printer](https://github.com/zizocreates/kit-printer):** a Shopify app that puts names and numbers on football kits, priced and checked inside Shopify's own checkout with Shopify Functions. Try it on the [demo store](https://kitsbyzizo.myshopify.com) (password `teoway`, payments are fake).
+- **[Project Horizon](https://github.com/zizocreates/Project-Horizon):** a drone on a radio link we built from scratch: a hand-soldered controller, 7-byte packets with a checksum, and a failsafe that cuts the motors when the signal drops.
+
+**Private, but you can try them live in the browser:** BasilBot (an AI email agent a small business runs on every day), SnapStyle, Stock Overflow and more, on my portfolio:
 
 ### → [zizocreates.pages.dev](https://zizocreates.pages.dev/work/)
-
-Now building AI agents for small businesses.
